@@ -1,0 +1,8 @@
+{
+    "user_settings": {
+        "target": "cy8ckit-064s0s2-4343w",
+        "ocd_name": "openocd",
+        "ocd_path": "",
+        "default_policy": "policy\\policy_single_CM0_CM4_swap.json"
+    }
+}
